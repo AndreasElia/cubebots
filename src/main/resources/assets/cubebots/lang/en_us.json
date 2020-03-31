@@ -1,0 +1,19 @@
+{
+  "itemGroup.cubebots": "CubeBots",
+
+  "entity.cubebots.cube_bot_entity":  "Cube Bot",
+
+  "item.cubebots.cube_bot_spawn_egg": "Cube Bot Spawn Egg",
+  "item.cubebots.cube_bot": "CubeBot",
+  "item.cubebots.cube_call": "CubeCall",
+  "item.cubebots.marker": "Marker",
+  "item.cubebots.instant_cube_call": "Instant CubeCall",
+  "item.cubebots.cube_piece": "Cube Piece",
+  "item.cubebots.cube_core": "Cube Core",
+  "item.cubebots.cube_life_core": "Cube Life Core",
+  "item.cubebots.cube_infinity_core": "Cube Infinity Core",
+  "item.cubebots.cube_nether_piece": "Cube Nether Piece",
+
+  "item.cubebots.dried_fruit": "Dried Fruit",
+  "block.cubebots.fruit_block": "Fruit Block"
+}
